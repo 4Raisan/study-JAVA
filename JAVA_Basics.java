@@ -11,6 +11,10 @@
 /* Rules of JAVA:
 1. Only one public class per .java file, and the file name must match that public class name.
 
+Naming 
+● Class Naming - PascalCase 
+● Veriable/Void- Naming - camelCase 
+
  public and private
  private - Only this class itself can see & use this 
          - just for class 
