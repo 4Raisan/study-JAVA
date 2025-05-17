@@ -4,6 +4,12 @@
 3. voids/methods
 4.     ...code...  */
 
+// public and private
+// private - Only this class itself can see & use this 
+//         - just for class 
+// public - Other classes also see & use this 
+//        - NEED object 
+
 // use this.[instance variables]  - (same as python self.)
 this.age = age;
 this.name = name;
