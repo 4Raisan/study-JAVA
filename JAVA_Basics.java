@@ -4,6 +4,10 @@
 3. voids/methods
 4.     ...code...  */
 
+//    Comments 
+// Single-line comment  
+/*  Multi-line comment  */ 
+
 // public and private
 // private - Only this class itself can see & use this 
 //         - just for class 
