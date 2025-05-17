@@ -15,6 +15,9 @@ Naming
 ● Class Naming - PascalCase 
 ● Veriable/Void- Naming - camelCase 
 
+Terminate statements, (tells where the instruction is complete) 
+● Semicolon ( ; ) 
+
  public and private
  private - Only this class itself can see & use this 
          - just for class 
