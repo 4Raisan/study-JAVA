@@ -15,7 +15,18 @@
  private - Only this class itself can see & use this 
          - just for class 
  public - Other classes also see & use this 
-        - NEED object  */
+        - NEED object 
+        
+# Constructor use to identify instance veriables with this. 
+# don't use void with the constructor :::
+public Monster(int age, String name) {
+        this.age = age;
+        this.name = name;
+    }
+
+*/
+
+
 
 // use this.[instance variables]  - (same as python self.)
 this.age = age;
