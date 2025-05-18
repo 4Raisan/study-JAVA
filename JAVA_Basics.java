@@ -18,6 +18,9 @@ Naming
 Terminate statements, (tells where the instruction is complete) 
 ● Semicolon ( ; ) 
 
+Global variables 
+● public static int count = 0;
+
  public and private
  private - Only this class itself can see & use this 
          - just for class 
