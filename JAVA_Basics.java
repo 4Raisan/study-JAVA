@@ -18,6 +18,11 @@ Naming
 Terminate statements, (tells where the instruction is complete) 
 ● Semicolon ( ; ) 
 
+Code block - Multi-Lines 
+. . . . . . . . . { 
+. . . . . . . . . . 
+}
+
 Global variables 
 ● public static int count = 0;
 
