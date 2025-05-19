@@ -43,6 +43,11 @@ public Monster(int age, String name) {
         this.name = name;
     }
 
+
+What are Getters and Setters?
+Getter: A method that gets (returns) the value of a private variable.
+Setter: A method that sets (updates) the value of a private variable.
+
 */
 
 
