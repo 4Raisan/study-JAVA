@@ -31,7 +31,11 @@ Global variables
          - just for class 
  public - Other classes also see & use this 
         - NEED object 
-        
+
+Main Method:
+The entry point of a Java program.
+Signature: public static void main(String[] args)
+
 # Constructor use to identify instance veriables with this. 
 # don't use void with the constructor :::
 public Monster(int age, String name) {
