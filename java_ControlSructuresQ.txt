@@ -1,0 +1,18 @@
+✅ Problem 1: Student Grade Management
+
+Description:
+Write a program that manages a student's grade. The program should:
+
+Ask the user to enter marks (0–100).
+Use if to check if the input is valid (0–100).
+Use if...else to check if the student passed (≥50) or failed.
+Use a switch to assign a grade:
+    90–100: A
+    75–89: B
+    60–74: C
+    50–59: D
+    Below 50: F
+Use a for loop to print the grade 3 times (like a stamp).
+Use a while loop to let the user check grades of multiple students until they type -1.
+Use a do...while loop to ask at least once if they want to continue checking another student.
+
